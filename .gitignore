@@ -1,0 +1,29 @@
+# Temporarily excluded from git
+node_modules/
+.DS_Store
+*.log
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+venv/
+env/
+
+# Temporary files
+/tmp/
+*.tmp
+.temp/
+
+# Distribution
+dist/*.skill

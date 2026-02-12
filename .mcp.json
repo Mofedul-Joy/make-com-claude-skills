@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "make": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "mcp-remote",
+                "https://mcp.make.com/sse"
+            ]
+        }
+    }
+}
