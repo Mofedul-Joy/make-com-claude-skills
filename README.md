@@ -1,4 +1,4 @@
-# Build with Make.com — MCP + Skills
+# Build with Make.com — Skills
 
 A workspace for designing, building, and managing Make.com scenarios using Claude Code with Make.com MCP server and Skills integration.
 
